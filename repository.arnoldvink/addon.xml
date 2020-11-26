@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.arnoldvink" name="Arnold Vink's Kodi Repository" provider-name="Arnold Vink" version="1.1.0">
+  <extension point="xbmc.addon.repository" name="Arnold Vink's Kodi Repository">
+    <info>https://raw.githubusercontent.com/dumbie/kodirepo/master/addons.xml</info>
+    <checksum>https://raw.githubusercontent.com/dumbie/kodirepo/master/addons.xml.md5</checksum>
+    <datadir zip="True">https://raw.githubusercontent.com/dumbie/kodirepo/master/</datadir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary>Install Add-ons developed by Arnold Vink</summary>
+    <description>Arnold Vink's Kodi Repository</description>
+    <website>https://arnoldvink.com</website>
+  </extension>
+</addon>
