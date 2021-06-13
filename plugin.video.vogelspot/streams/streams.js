@@ -40,6 +40,14 @@
     "token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=Vijver1"
   },
   {
+    "id": "bliek",
+    "name": "Bliek",
+    "location": "Haringvliet, Zuid-Holland",
+    "source": "Beleefdelente",
+    "stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=Bliek&type=live&service=wowza&protocol=https&output=playlist.m3u8",
+    "token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=Bliek"
+  },
+  {
     "id": "merel",
     "name": "Merel",
     "location": "Een schuurtje",
