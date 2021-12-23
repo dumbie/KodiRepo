@@ -1,5 +1,21 @@
 [
   {
+    "id": "misc",
+    "name": "Voedertafel",
+    "location": "Onbekende locatie",
+    "source": "Beleefdelente",
+    "stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=Voedertafel1&type=live&service=wowza&protocol=https&output=playlist.m3u8",
+    "token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=Voedertafel1"
+  },
+  {
+    "id": "misc",
+    "name": "Vijver",
+    "location": "Stuwwal, Veluwe",
+    "source": "Beleefdelente",
+    "stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=Vijver1&type=live&service=wowza&protocol=https&output=playlist.m3u8",
+    "token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=Vijver1"
+  },
+  {
     "id": "bosuil",
     "name": "Bosuil Binnen",
     "location": "Meinweg, Limburg",
@@ -30,14 +46,6 @@
     "source": "Beleefdelente",
     "stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=Kerkuil2&type=live&service=wowza&protocol=https&output=playlist.m3u8",
     "token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=Kerkuil2"
-  },
-  {
-    "id": "misc",
-    "name": "Vijver",
-    "location": "Stuwwal, Veluwe",
-    "source": "Beleefdelente",
-    "stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=Vijver1&type=live&service=wowza&protocol=https&output=playlist.m3u8",
-    "token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=Vijver1"
   },
   {
     "id": "bliek",
