@@ -1,14 +1,6 @@
 [
   {
     "id": "misc",
-    "name": "Voedertafel",
-    "location": "Onbekende locatie",
-    "source": "Beleefdelente",
-    "stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=Voedertafel1&type=live&service=wowza&protocol=https&output=playlist.m3u8",
-    "token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=Voedertafel1"
-  },
-  {
-    "id": "misc",
     "name": "Vijver",
     "location": "Stuwwal, Veluwe",
     "source": "Beleefdelente",
@@ -104,14 +96,6 @@
     "token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=Ooievaar1"
   },
   {
-    "id": "scholekster",
-    "name": "Scholekster",
-    "location": "Assen, Drenthe",
-    "source": "Beleefdelente",
-    "stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=Scholekster1&type=live&service=wowza&protocol=https&output=playlist.m3u8",
-    "token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=Scholekster1"
-  },
-  {
     "id": "torenvalk",
     "name": "Torenvalk",
     "location": "Hoogeveen, Drenthe",
@@ -134,38 +118,6 @@
     "source": "Beleefdelente",
     "stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=SlechtvalkGemert2&type=live&service=wowza&protocol=https&output=playlist.m3u8",
     "token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=SlechtvalkGemert2"
-  },
-  {
-    "id": "oehoe",
-    "name": "Oehoe Nest",
-    "location": "Een kapschuur",
-    "source": "Beleefdelente",
-    "stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=Oehoe1&type=live&service=wowza&protocol=https&output=playlist.m3u8",
-    "token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=Oehoe1"
-  },
-  {
-    "id": "oehoe",
-    "name": "Oehoe Schuur",
-    "location": "Een kapschuur",
-    "source": "Beleefdelente",
-    "stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=Oehoe2&type=live&service=wowza&protocol=https&output=playlist.m3u8",
-    "token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=Oehoe2"
-  },
-  {
-    "id": "kauw",
-    "name": "Kauw Buiten",
-    "location": "Winterswijk, Gelderland",
-    "source": "Beleefdelente",
-    "stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=Kauw2&type=live&service=wowza&protocol=https&output=playlist.m3u8",
-    "token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=Kauw2"
-  },
-  {
-    "id": "kauw",
-    "name": "Kauw Binnen",
-    "location": "Winterswijk, Gelderland",
-    "source": "Beleefdelente",
-    "stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=Kauw1&type=live&service=wowza&protocol=https&output=playlist.m3u8",
-    "token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=Kauw1"
   },
   {
     "id": "steenuil",
@@ -208,22 +160,6 @@
     "token": ""
   },
   {
-    "id": "holenduif",
-    "name": "Holenduif / Bosuil Binnen",
-    "location": "Heuvelrug, Utrecht",
-    "source": "Nestkastlive",
-    "stream": "https://5d881567b7568.streamlock.net/live/Bosuil3Binnen.stream/playlist.m3u8",
-    "token": ""
-  },
-  {
-    "id": "holenduif",
-    "name": "Holenduif / Bosuil Buiten",
-    "location": "Heuvelrug, Utrecht",
-    "source": "Nestkastlive",
-    "stream": "https://5d881567b7568.streamlock.net/live/Bosuil3Buiten.stream/playlist.m3u8",
-    "token": ""
-  },
-  {
     "id": "turksetortel",
     "name": "Turkse Tortel",
     "location": "Alphen aan den Rijn, Zuid-Holland",
@@ -248,14 +184,6 @@
     "token": ""
   },
   {
-    "id": "ransuil",
-    "name": "Ransuil",
-    "location": "Wassenaar, Zuid-Holland",
-    "source": "Nestkastlive",
-    "stream": "https://5d881567b7568.streamlock.net/live/Ransuil.stream/playlist.m3u8",
-    "token": ""
-  },
-  {
     "id": "spreeuw",
     "name": "Spreeuw / Eekhoorn",
     "location": "Sprundel, Noord-Brabant",
@@ -269,6 +197,14 @@
     "location": "Alphen aan den Rijn, Zuid-Holland",
     "source": "Nestkastlive",
     "stream": "https://5d881567b7568.streamlock.net/live/Spreeuw2Binnen.stream/playlist.m3u8",
+    "token": ""
+  },
+  {
+    "id": "spreeuw",
+    "name": "Spreeuw",
+    "location": "Alphen aan den Rijn, Zuid-Holland",
+    "source": "Nestkastlive",
+    "stream": "https://5d881567b7568.streamlock.net/live/Spreeuw1Binnen.stream/playlist.m3u8",
     "token": ""
   },
   {
@@ -292,7 +228,7 @@
     "name": "Pimpelmees",
     "location": "Alphen aan den Rijn, Zuid-Holland",
     "source": "Nestkastlive",
-    "stream": "https://5d881567b7568.streamlock.net/live/Koolmees1Binnen.stream/playlist.m3u8",
+    "stream": "https://5d881567b7568.streamlock.net/live/Pimpelmees2.stream/playlist.m3u8",
     "token": ""
   },
   {
@@ -312,11 +248,11 @@
     "token": ""
   },
   {
-    "id": "torenvalk",
-    "name": "Torenvalk / Bosuil / Holenduif",
-    "location": "Rekken, Gelderland",
+    "id": "bosuil",
+    "name": "Bosuil",
+    "location": "Wassenaar, Zuid-Holland",
     "source": "Nestkastlive",
-    "stream": "https://5d881567b7568.streamlock.net/live/Bosuil4Binnen.stream/playlist.m3u8",
+    "stream": "https://5d881567b7568.streamlock.net/live/Bosuil5Binnen.stream/playlist.m3u8",
     "token": ""
   },
   {
@@ -336,30 +272,6 @@
     "token": ""
   },
   {
-    "id": "buizerd",
-    "name": "Buizerd",
-    "location": "Hoeksche waard, Zuid-Holland",
-    "source": "Nestkastlive",
-    "stream": "https://5d881567b7568.streamlock.net/live/Buizerd.stream/playlist.m3u8",
-    "token": ""
-  },
-  {
-    "id": "havik",
-    "name": "Havik",
-    "location": "Hoeksche waard, Zuid-Holland",
-    "source": "Nestkastlive",
-    "stream": "https://5d881567b7568.streamlock.net/live/Havik.stream/playlist.m3u8",
-    "token": ""
-  },
-  {
-    "id": "boerenzwaluw",
-    "name": "Boerenzwaluw",
-    "location": "Alphen aan den Rijn, Zuid-Holland",
-    "source": "Beleefdelente",
-    "stream": "https://5d881567b7568.streamlock.net/live/Boerenzwaluw3.stream/playlist.m3u8",
-    "token": ""
-  },
-  {
     "id": "lepelaar",
     "name": "Lepelaar",
     "location": "Nieuwkoop, Zuid-Holland",
@@ -368,8 +280,24 @@
     "token": ""
   },
   {
+    "id": "oeverzwaluw",
+    "name": "Oeverzwaluw Buiten",
+    "location": "Bodegraven-Reeuwijk, Zuid-Holland",
+    "source": "Nestkastlive",
+    "stream": "https://5d881567b7568.streamlock.net/live/Oeverzwaluw1Buiten.stream/playlist.m3u8",
+    "token": ""
+  },
+  {
+    "id": "oeverzwaluw",
+    "name": "Oeverzwaluw Binnen",
+    "location": "Bodegraven-Reeuwijk, Zuid-Holland",
+    "source": "Nestkastlive",
+    "stream": "https://5d881567b7568.streamlock.net/live/Oeverzwaluw1Binnen.stream/playlist.m3u8",
+    "token": ""
+  },
+  {
     "id": "misc",
-    "name": "Voerbak",
+    "name": "Voerplaats",
     "location": "Sprundel, Noord-brabant",
     "source": "Nestkastlive",
     "stream": "https://5d881567b7568.streamlock.net/live/Voercam2Tafel.stream/playlist.m3u8",
@@ -390,93 +318,5 @@
     "source": "Nestkastlive",
     "stream": "https://5d881567b7568.streamlock.net/live/Dras.stream/playlist.m3u8",
     "token": ""
-  },
-  {
-    "id": "bosuil",
-    "name": "Bosuil",
-    "location": "Yew view garden, Engeland",
-    "source": "Wildlifekate.co.uk",
-    "stream": "https://stream.wildlifestreaming.io:8443/WildlifeKate/yew77.stream/playlist.m3u8",
-    "token": ""
-  },
-  {
-    "id": "vos",
-    "name": "Field Fox Cam",
-    "location": "Lichfield garden, Engeland",
-    "source": "Wildlifekate.co.uk",
-    "stream": "https://stream.wildlifestreaming.io:8443/WildlifeKate/230.stream/playlist.m3u8",
-    "token": ""
-  },
-  {
-    "id": "misc",
-    "name": "Garden PTZ",
-    "location": "Lichfield garden, Engeland",
-    "source": "Wildlifekate.co.uk",
-    "stream": "https://stream.wildlifestreaming.io:8443/WildlifeKate/235.stream/playlist.m3u8",
-    "token": ""
-  },
-  {
-    "id": "misc",
-    "name": "Feeding Platform",
-    "location": "Lichfield garden, Engeland",
-    "source": "Wildlifekate.co.uk",
-    "stream": "https://stream.wildlifestreaming.io:8443/WildlifeKate/231.stream/playlist.m3u8",
-    "token": ""
-  },
-  {
-    "id": "pinguin",
-    "name": "Pinguin",
-    "location": "Edinburgh, Schotland",
-    "source": "Edinburgh Zoo",
-    "stream": "https://595b9deb3d6ac.streamlock.net/qlive/edinburghzoo104225.stream/playlist.m3u8",
-    "token": ""
-  },
-  {
-    "id": "koala",
-    "name": "Koala",
-    "location": "Edinburgh, Schotland",
-    "source": "Edinburgh Zoo",
-    "stream": "https://5cee0d703d908.streamlock.net/rtplive/edinburghzoo103750_koala.stream/playlist.m3u8",
-    "token": ""
-  },
-  {
-    "id": "panda",
-    "name": "Panda",
-    "location": "Edinburgh, Schotland",
-    "source": "Edinburgh Zoo",
-    "stream": "https://5cee0d703d908.streamlock.net/rtplive/EDZ-PH2-ShowDen2.stream/playlist.m3u8",
-    "token": ""
-  },
-  {
-    "id": "ijsvogel",
-    "name": "[COLOR ffe80707]X[/COLOR] Ijsvogel Binnen",
-    "location": "Helmond, Noord-Brabant",
-    "source": "Beleefdelente",
-    "stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=Ijsvogel1&type=live&service=wowza&protocol=https&output=playlist.m3u8",
-    "token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=Ijsvogel1"
-  },
-  {
-    "id": "ijsvogel",
-    "name": "[COLOR ffe80707]X[/COLOR] Ijsvogel Buiten",
-    "location": "Helmond, Noord-Brabant",
-    "source": "Beleefdelente",
-    "stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=Ijsvogel2&type=live&service=wowza&protocol=https&output=playlist.m3u8",
-    "token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=Ijsvogel2"
-  },
-  {
-    "id": "huiszwaluw",
-    "name": "[COLOR ffe80707]X[/COLOR] Huiszwaluw",
-    "location": "Noordwijkerhout, Zuid-Holland",
-    "source": "Beleefdelente",
-    "stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=huiszwaluw2&type=live&service=wowza&protocol=https&output=playlist.m3u8",
-    "token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=huiszwaluw2"
-  },
-  {
-    "id": "roodstaart",
-    "name": "[COLOR ffe80707]X[/COLOR] Gekraagde roodstaart",
-    "location": "Winterswijk, Gelderland",
-    "source": "Beleefdelente",
-    "stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=roodstaart2&type=live&service=wowza&protocol=https&output=playlist.m3u8",
-    "token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=roodstaart2"
   }
 ]
