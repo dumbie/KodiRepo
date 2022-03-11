@@ -106,6 +106,22 @@
   {
     "id": "slechtvalk",
     "name": "Slechtvalk Nest",
+    "location": "Rijksmuseum, Noord-Holland",
+    "source": "Beleefdelente",
+    "stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=SlechtvalkRijksmuseum1&type=live&service=wowza&protocol=https&output=playlist.m3u8",
+    "token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=SlechtvalkRijksmuseum1"
+  },
+  {
+    "id": "slechtvalk",
+    "name": "Slechtvalk Rooster",
+    "location": "Rijksmuseum, Noord-Holland",
+    "source": "Beleefdelente",
+    "stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=SlechtvalkRijksmuseum2&type=live&service=wowza&protocol=https&output=playlist.m3u8",
+    "token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=SlechtvalkRijksmuseum2"
+  },
+  {
+    "id": "slechtvalk",
+    "name": "Slechtvalk Nest",
     "location": "De Mortel, Noord-Brabant",
     "source": "Beleefdelente",
     "stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=SlechtvalkGemert3&type=live&service=wowza&protocol=https&output=playlist.m3u8",
