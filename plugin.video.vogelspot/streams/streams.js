@@ -176,14 +176,6 @@
     "token": ""
   },
   {
-    "id": "turksetortel",
-    "name": "Turkse Tortel",
-    "location": "Alphen aan den Rijn, Zuid-Holland",
-    "source": "Nestkastlive",
-    "stream": "https://5d881567b7568.streamlock.net/live/TurkseTortel.stream/playlist.m3u8",
-    "token": ""
-  },
-  {
     "id": "kerkuil",
     "name": "Kerkuil Binnen",
     "location": "Alphen aan den Rijn, Zuid-Holland",
@@ -197,6 +189,22 @@
     "location": "Alphen aan den Rijn, Zuid-Holland",
     "source": "Nestkastlive",
     "stream": "https://5d881567b7568.streamlock.net/live/Kerkuil1Buiten.stream/playlist.m3u8",
+    "token": ""
+  },
+  {
+    "id": "ransuil",
+    "name": "Ransuil",
+    "location": "Wassenaar, Zuid-Holland",
+    "source": "Nestkastlive",
+    "stream": "https://5d881567b7568.streamlock.net/live/Ransuil.stream/playlist.m3u8",
+    "token": ""
+  },
+  {
+    "id": "turksetortel",
+    "name": "Turkse Tortel",
+    "location": "Alphen aan den Rijn, Zuid-Holland",
+    "source": "Nestkastlive",
+    "stream": "https://5d881567b7568.streamlock.net/live/TurkseTortel.stream/playlist.m3u8",
     "token": ""
   },
   {
@@ -264,14 +272,6 @@
     "token": ""
   },
   {
-    "id": "bosuil",
-    "name": "Bosuil",
-    "location": "Wassenaar, Zuid-Holland",
-    "source": "Nestkastlive",
-    "stream": "https://5d881567b7568.streamlock.net/live/Bosuil5Binnen.stream/playlist.m3u8",
-    "token": ""
-  },
-  {
     "id": "slechtvalk",
     "name": "Slechtvalk Buiten",
     "location": "Alphen aan den Rijn, Zuid-Holland",
@@ -285,6 +285,14 @@
     "location": "Alphen aan den Rijn, Zuid-Holland",
     "source": "Nestkastlive",
     "stream": "https://5d881567b7568.streamlock.net/live/Slechtvalk1Binnen.stream/playlist.m3u8",
+    "token": ""
+  },
+  {
+    "id": "havik",
+    "name": "Havik",
+    "location": "Hoeksche waard, Zuid-Holland",
+    "source": "Nestkastlive",
+    "stream": "https://5d881567b7568.streamlock.net/live/Havik.stream/playlist.m3u8",
     "token": ""
   },
   {

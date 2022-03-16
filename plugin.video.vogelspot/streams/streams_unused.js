@@ -1,5 +1,13 @@
 [
   {
+    "id": "bosuil",
+    "name": "Bosuil",
+    "location": "Wassenaar, Zuid-Holland",
+    "source": "Nestkastlive",
+    "stream": "https://5d881567b7568.streamlock.net/live/Bosuil5Binnen.stream/playlist.m3u8",
+    "token": ""
+  },
+  {
     "id": "kauw",
     "name": "Kauw Buiten",
     "location": "Winterswijk, Gelderland",
@@ -64,27 +72,11 @@
     "token": ""
   },
   {
-    "id": "ransuil",
-    "name": "Ransuil",
-    "location": "Wassenaar, Zuid-Holland",
-    "source": "Nestkastlive",
-    "stream": "https://5d881567b7568.streamlock.net/live/Ransuil.stream/playlist.m3u8",
-    "token": ""
-  },
-  {
     "id": "buizerd",
     "name": "Buizerd",
     "location": "Hoeksche waard, Zuid-Holland",
     "source": "Nestkastlive",
     "stream": "https://5d881567b7568.streamlock.net/live/Buizerd.stream/playlist.m3u8",
-    "token": ""
-  },
-  {
-    "id": "havik",
-    "name": "Havik",
-    "location": "Hoeksche waard, Zuid-Holland",
-    "source": "Nestkastlive",
-    "stream": "https://5d881567b7568.streamlock.net/live/Havik.stream/playlist.m3u8",
     "token": ""
   },
   {
