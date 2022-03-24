@@ -250,6 +250,14 @@
   {
     "id": "pimpelmees",
     "name": "Pimpelmees",
+    "location": "Nieuw-lekkerland, Zuid-Holland",
+    "source": "Nestkastlive",
+    "stream": "https://5d881567b7568.streamlock.net/live/Pimpelmees4.stream/playlist.m3u8",
+    "token": ""
+  },
+  {
+    "id": "pimpelmees",
+    "name": "Pimpelmees",
     "location": "Alphen aan den Rijn, Zuid-Holland",
     "source": "Nestkastlive",
     "stream": "https://5d881567b7568.streamlock.net/live/Pimpelmees2.stream/playlist.m3u8",
