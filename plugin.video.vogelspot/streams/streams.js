@@ -48,6 +48,14 @@
     "token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=Bliek"
   },
   {
+    "id": "misc",
+    "name": "Boerenlandvogels",
+    "location": "Eempolder, Utrecht",
+    "source": "Beleefdelente",
+    "stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=Boerenlandvogels1&type=live&service=wowza&protocol=https&output=playlist.m3u8",
+    "token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=Boerenlandvogels1"
+  },
+  {
     "id": "merel",
     "name": "Merel",
     "location": "Een schuurtje",
@@ -145,7 +153,7 @@
   },
   {
     "id": "steenuil",
-    "name": "Steenuil Binnen achter",
+    "name": "Steenuil Binnen voor",
     "location": "Winterswijk, Gelderland",
     "source": "Beleefdelente",
     "stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=Steenuil1&type=live&service=wowza&protocol=https&output=playlist.m3u8",
@@ -153,7 +161,7 @@
   },
   {
     "id": "steenuil",
-    "name": "Steenuil Binnen voor",
+    "name": "Steenuil Binnen achter",
     "location": "Winterswijk, Gelderland",
     "source": "Beleefdelente",
     "stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=Steenuil2&type=live&service=wowza&protocol=https&output=playlist.m3u8",
