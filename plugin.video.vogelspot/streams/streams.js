@@ -104,6 +104,22 @@
     "token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=Ooievaar1"
   },
   {
+    "id": "gierzwaluw",
+    "name": "Gierzwaluw",
+    "location": "Kasteel Waardenburg, Gelderland",
+    "source": "Beleefdelente",
+    "stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=Gierzwaluw1&type=live&service=wowza&protocol=https&output=playlist.m3u8",
+    "token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=Gierzwaluw1"
+  },
+  {
+    "id": "scholekster",
+    "name": "Scholekster",
+    "location": "Assen, Drenthe",
+    "source": "Beleefdelente",
+    "stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=Scholekster1&type=live&service=wowza&protocol=https&output=playlist.m3u8",
+    "token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=Scholekster1"
+  },
+  {
     "id": "torenvalk",
     "name": "Torenvalk",
     "location": "Hoogeveen, Drenthe",
