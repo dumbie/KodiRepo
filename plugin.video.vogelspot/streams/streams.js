@@ -249,7 +249,7 @@
   },
   {
     "id": "spreeuw",
-    "name": "Spreeuw",
+    "name": "Koolmees / Spreeuw",
     "location": "Alphen aan den Rijn, Zuid-Holland",
     "source": "Nestkastlive",
     "stream": "https://5d881567b7568.streamlock.net/live/Spreeuw1Binnen.stream/playlist.m3u8",
@@ -281,10 +281,18 @@
   },
   {
     "id": "pimpelmees",
-    "name": "Pimpelmees",
+    "name": "Pimpelmees Binnen",
     "location": "Alphen aan den Rijn, Zuid-Holland",
     "source": "Nestkastlive",
     "stream": "https://5d881567b7568.streamlock.net/live/Pimpelmees2.stream/playlist.m3u8",
+    "token": ""
+  },
+  {
+    "id": "pimpelmees",
+    "name": "Pimpelmees Buiten",
+    "location": "Alphen aan den Rijn, Zuid-Holland",
+    "source": "Nestkastlive",
+    "stream": "https://5d881567b7568.streamlock.net/live/Pimpelmees2Buiten.stream/playlist.m3u8",
     "token": ""
   },
   {
@@ -324,7 +332,7 @@
     "name": "Havik",
     "location": "Hoeksche waard, Zuid-Holland",
     "source": "Nestkastlive",
-    "stream": "https://5d881567b7568.streamlock.net/live/Havik.stream/playlist.m3u8",
+    "stream": "https://5d881567b7568.streamlock.net/live/Havik_HD.stream/playlist.m3u8",
     "token": ""
   },
   {
@@ -349,6 +357,22 @@
     "location": "Bodegraven-Reeuwijk, Zuid-Holland",
     "source": "Nestkastlive",
     "stream": "https://5d881567b7568.streamlock.net/live/Oeverzwaluw1Binnen.stream/playlist.m3u8",
+    "token": ""
+  },
+  {
+    "id": "oeverzwaluw",
+    "name": "Oeverzwaluw Binnen",
+    "location": "Skrok, Friesland",
+    "source": "Nestkastlive",
+    "stream": "https://5d881567b7568.streamlock.net/live/Oeverzwaluw2.stream/Playlist.m3u8",
+    "token": ""
+  },
+  {
+    "id": "boerenzwaluw",
+    "name": "Boerenzwaluw Nest",
+    "location": "Alphen aan den Rijn, Zuid-Holland",
+    "source": "Nestkastlive",
+    "stream": "https://5d881567b7568.streamlock.net/live/Boerenzwaluw3.stream/playlist.m3u8",
     "token": ""
   },
   {
