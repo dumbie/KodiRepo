@@ -28,7 +28,7 @@ v1.0.0 (28 September 2018)
   </extension>
 </addon>
 
-<addon id="plugin.video.vogelspot" name="Vogelspot" provider-name="Arnold Vink" version="1.1.0">
+<addon id="plugin.video.vogelspot" name="Vogelspot" provider-name="Arnold Vink" version="1.1.1">
   <extension point="xbmc.python.script" library="default.py">
     <provides>video</provides>
   </extension>
