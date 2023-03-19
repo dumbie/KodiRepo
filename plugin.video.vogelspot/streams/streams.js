@@ -84,7 +84,7 @@
 		"name": "Havik",
 		"location": "Hoeksche waard, Zuid-Holland",
 		"source": "Nestkastlive",
-		"stream": "https://5d881567b7568.streamlock.net/live/Havik_HD.stream/playlist.m3u8",
+		"stream": "https://5d881567b7568.streamlock.net/live/Havik.stream/playlist.m3u8",
 		"token": ""
 	},
 	{
