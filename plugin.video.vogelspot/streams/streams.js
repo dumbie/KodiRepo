@@ -112,6 +112,14 @@
 		"token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=huiszwaluw2"
 	},
 	{
+		"id": "huiszwaluw",
+		"name": "Huiszwaluw",
+		"location": "Alphen aan den Rijn, Zuid-Holland",
+		"source": "Nestkastlive",
+		"stream": "https://5d881567b7568.streamlock.net/live/HuiszwaluwBinnen.stream/playlist.m3u8",
+		"token": ""
+	},
+	{
 		"id": "ijsvogel",
 		"name": "Ijsvogel Binnen",
 		"location": "Helmond, Noord-Brabant",
@@ -210,7 +218,7 @@
 	{
 		"id": "koolmees",
 		"name": "Koolmees Binnen",
-		"location": "Dongen, Noord-Brabant",
+		"location": "Bennekom, Gelderland",
 		"source": "Beleefdelente",
 		"stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=Koolmees1&type=live&service=wowza&protocol=https&output=playlist.m3u8",
 		"token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=Koolmees1"
@@ -218,7 +226,7 @@
 	{
 		"id": "koolmees",
 		"name": "Koolmees Buiten",
-		"location": "Dongen, Noord-Brabant",
+		"location": "Bennekom, Gelderland",
 		"source": "Beleefdelente",
 		"stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=Koolmees2&type=live&service=wowza&protocol=https&output=playlist.m3u8",
 		"token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=Koolmees2"
@@ -234,7 +242,7 @@
 	{
 		"id": "merel",
 		"name": "Merel",
-		"location": "Een schuurtje",
+		"location": "Bennekom, Gelderland",
 		"source": "Beleefdelente",
 		"stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=Merel1&type=live&service=wowza&protocol=https&output=playlist.m3u8",
 		"token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=Merel1"
@@ -286,14 +294,6 @@
 		"source": "Beleefdelente",
 		"stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=Ooievaar1&type=live&service=wowza&protocol=https&output=playlist.m3u8",
 		"token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=Ooievaar1"
-	},
-	{
-		"id": "pimpelmees",
-		"name": "Pimpelmees",
-		"location": "Nieuw-lekkerland, Zuid-Holland",
-		"source": "Nestkastlive",
-		"stream": "https://5d881567b7568.streamlock.net/live/Pimpelmees4.stream/playlist.m3u8",
-		"token": ""
 	},
 	{
 		"id": "pimpelmees",
