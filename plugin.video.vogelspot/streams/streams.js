@@ -26,10 +26,18 @@
 	{
 		"id": "boerenzwaluw",
 		"name": "Boerenzwaluw Nest",
-		"location": "Alphen aan den Rijn, Zuid-Holland",
-		"source": "Nestkastlive",
-		"stream": "https://5d881567b7568.streamlock.net/live/Boerenzwaluw3.stream/playlist.m3u8",
-		"token": ""
+		"location": "Grenslicht, Woold, Gelderland",
+		"source": "Beleefdelente",
+		"stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=Boerenzwaluw1&type=live&service=wowza&protocol=https&output=playlist.m3u8",
+		"token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=Boerenzwaluw1"
+	},
+	{
+		"id": "boerenzwaluw",
+		"name": "Boerenzwaluw Buiten",
+		"location": "Grenslicht, Woold, Gelderland",
+		"source": "Beleefdelente",
+		"stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=Boerenzwaluw2&type=live&service=wowza&protocol=https&output=playlist.m3u8",
+		"token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=Boerenzwaluw2"
 	},
 	{
 		"id": "bosuil",
@@ -501,6 +509,14 @@
 		"location": "Alphen aan den Rijn, Zuid-Holland",
 		"source": "Nestkastlive",
 		"stream": "https://5d881567b7568.streamlock.net/live/Plas.stream/playlist.m3u8",
+		"token": ""
+	},
+	{
+		"id": "winterkoning",
+		"name": "Winterkoning",
+		"location": "Alphen aan den Rijn, Zuid-Holland",
+		"source": "Nestkastlive",
+		"stream": "https://5d881567b7568.streamlock.net/live/Winterkoning.stream/playlist.m3u8",
 		"token": ""
 	},
 	{
