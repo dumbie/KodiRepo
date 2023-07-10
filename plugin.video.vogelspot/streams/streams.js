@@ -40,6 +40,14 @@
 		"token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=Boerenzwaluw2"
 	},
 	{
+		"id": "misc",
+		"name": "Bos Camera",
+		"location": "Wassenaar, Zuid-Holland",
+		"source": "Nestkastlive",
+		"stream": "https://5d881567b7568.streamlock.net/live/Boscam.stream/playlist.m3u8",
+		"token": ""
+	},
+	{
 		"id": "bosuil",
 		"name": "Bosuil",
 		"location": "Wassenaar, Zuid-Holland",
@@ -175,7 +183,7 @@
 		"stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=Kerkuil2&type=live&service=wowza&protocol=https&output=playlist.m3u8",
 		"token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=Kerkuil2"
 	},
-  {
+	{
 		"id": "kerkuil",
 		"name": "Kerkuil Buiten 2",
 		"location": "Grenslicht, Woold, Gelderland",
@@ -385,7 +393,7 @@
 	},
 	{
 		"id": "spreeuw",
-		"name": "Spreeuw",
+		"name": "Spreeuw / Koolmees",
 		"location": "Alphen aan den Rijn, Zuid-Holland",
 		"source": "Nestkastlive",
 		"stream": "https://5d881567b7568.streamlock.net/live/Spreeuw2Binnen.stream/playlist.m3u8",
@@ -423,7 +431,7 @@
 		"stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=Steenuil3&type=live&service=wowza&protocol=https&output=playlist.m3u8",
 		"token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=Steenuil3"
 	},
-  {
+	{
 		"id": "steenuil",
 		"name": "Steenuil Binnen",
 		"location": "Sprundel, Noord-Brabant",
