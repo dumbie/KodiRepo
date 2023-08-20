@@ -25,7 +25,7 @@ v1.0.0 (19 March 2021)
   </extension>
 </addon>
 
-<addon id="plugin.video.xs4allwebbieplayer" name="Webbie Player" provider-name="Arnold Vink" version="1.20.0">
+<addon id="plugin.video.xs4allwebbieplayer" name="Webbie Player" provider-name="Arnold Vink" version="1.21.0">
   <requires>
     <import addon="inputstream.adaptive" version="2.0.10"/>
   </requires>
@@ -45,6 +45,9 @@ v1.0.0 (19 March 2021)
     <summary lang="nl">Webbie Player</summary>
     <description lang="nl">Webbie Player is een Kodi add-on, waarmee u online TV kunt kijken als u televisie klant bent bij de internet provider XS4ALL, KPN of Telfort.[CR][CR]Dit is geen officiële add-on gemaakt door XS4ALL, KPN of Telfort maar ontwikkeld door Arnold Vink, gebruik deze add-on op eigen risico.[CR][CR]Webbie Player heeft de volgende benodigdheden nodig: Kodi 18 of nieuwer, InputStream Adaptive add-on en je abonnements inlog gegevens.</description>
     <news>
+v1.21.0 (20 Augustus 2023)
+- Android Kodi crash omzeiling toegevoegd.
+
 v1.20.0 (29 Juli 2023)
 - Add-on aangepast aan hogere bitrate stream.
 
