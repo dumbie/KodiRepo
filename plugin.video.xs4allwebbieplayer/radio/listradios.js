@@ -17,7 +17,7 @@
     },
     {
       "id": "nporadio4",
-      "name": "NPO Radio 4",
+      "name": "NPO 4 Klassiek",
       "stream": "https://icecast.omroep.nl/radio4-bb-mp3"
     },
     {
@@ -29,6 +29,11 @@
       "id": "npofunx",
       "name": "NPO FunX",
       "stream": "https://icecast.omroep.nl/funx-bb-mp3"
+    },
+    {
+      "id": "nposterren",
+      "name": "NPO Sterren",
+      "stream": "https://icecast.omroep.nl/radio2-sterrennl-mp3"
     },
     {
       "id": "nposouljazz",
@@ -66,8 +71,13 @@
       "stream": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live.mp3"
     },
     {
+      "id": "joe",
+      "name": "Joe",
+      "stream": "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl.mp3"
+    },
+    {
       "id": "slamfm",
-      "name": "Slam FM",
+      "name": "SLAM!",
       "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/SLAM_MP3.mp3"
     },
     {
