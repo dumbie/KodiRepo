@@ -25,7 +25,7 @@ v1.0.0 (19 March 2021)
   </extension>
 </addon>
 
-<addon id="plugin.video.xs4allwebbieplayer" name="Webbie Player" provider-name="Arnold Vink" version="1.24.7">
+<addon id="plugin.video.xs4allwebbieplayer" name="Webbie Player" provider-name="Arnold Vink" version="1.24.8">
   <requires>
     <import addon="inputstream.adaptive" version="2.0.10"/>
   </requires>
