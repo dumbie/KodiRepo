@@ -508,7 +508,7 @@
 		"name": "Voerplaats",
 		"location": "Sprundel, Noord-brabant",
 		"source": "Nestkastlive",
-		"stream": "https://5d881567b7568.streamlock.net/live/Voercam2Tafel.stream/playlist.m3u8",
+		"stream": "https://5d881567b7568.streamlock.net/live/Voerplaats.stream/playlist.m3u8",
 		"token": ""
 	},
 	{
