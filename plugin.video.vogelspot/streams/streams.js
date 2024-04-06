@@ -122,15 +122,15 @@
 	{
 		"id": "oehoe",
 		"name": "Oehoe Nest",
-		"location": "Een kapschuur",
+		"location": "Enschede, Overijssel",
 		"source": "Beleefdelente",
 		"stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=Oehoe1&type=live&service=wowza&protocol=https&output=playlist.m3u8",
 		"token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=Oehoe1"
 	},
 	{
 		"id": "oehoe",
-		"name": "Oehoe Schuur",
-		"location": "Een kapschuur",
+		"name": "Oehoe Dichtbij",
+		"location": "Enschede, Overijssel",
 		"source": "Beleefdelente",
 		"stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=Oehoe2&type=live&service=wowza&protocol=https&output=playlist.m3u8",
 		"token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=Oehoe2"
@@ -190,22 +190,6 @@
 		"source": "Beleefdelente",
 		"stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=SlechtvalkRijksmuseum2&type=live&service=wowza&protocol=https&output=playlist.m3u8",
 		"token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=SlechtvalkRijksmuseum2"
-	},
-	{
-		"id": "slechtvalk",
-		"name": "Slechtvalk Nest",
-		"location": "De Mortel, Noord-Brabant",
-		"source": "Beleefdelente",
-		"stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=SlechtvalkGemert3&type=live&service=wowza&protocol=https&output=playlist.m3u8",
-		"token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=SlechtvalkGemert3"
-	},
-	{
-		"id": "slechtvalk",
-		"name": "Slechtvalk Rooster",
-		"location": "De Mortel, Noord-Brabant",
-		"source": "Beleefdelente",
-		"stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=SlechtvalkGemert2&type=live&service=wowza&protocol=https&output=playlist.m3u8",
-		"token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=SlechtvalkGemert2"
 	},
 	{
 		"id": "spreeuw",
@@ -326,5 +310,53 @@
 		"source": "Beleefdelente",
 		"stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=Zeearend1&type=live&service=wowza&protocol=https&output=playlist.m3u8",
 		"token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=Zeearend1"
+	},
+	{
+		"id": "havik",
+		"name": "Havik",
+		"location": "Hoeksche waard, Zuid-Holland",
+		"source": "Nestkastlive",
+		"stream": "https://5d881567b7568.streamlock.net/live/Havik.stream/playlist.m3u8",
+		"token": ""
+	},
+	{
+		"id": "oeverzwaluw",
+		"name": "Oeverzwaluw Buiten",
+		"location": "Bodegraven-Reeuwijk, Zuid-Holland",
+		"source": "Nestkastlive",
+		"stream": "https://5d881567b7568.streamlock.net/live/Oeverzwaluw1Buiten.stream/playlist.m3u8",
+		"token": ""
+	},
+	{
+		"id": "oeverzwaluw",
+		"name": "Oeverzwaluw Binnen",
+		"location": "Bodegraven-Reeuwijk, Zuid-Holland",
+		"source": "Nestkastlive",
+		"stream": "https://5d881567b7568.streamlock.net/live/Oeverzwaluw1Binnen.stream/playlist.m3u8",
+		"token": ""
+	},
+	{
+		"id": "roodborst",
+		"name": "Roodborst",
+		"location": "Sprundel, Noord-Brabant",
+		"source": "Nestkastlive",
+		"stream": "https://5d881567b7568.streamlock.net/live/Roodborst.stream/playlist.m3u8",
+		"token": ""
+	},
+	{
+		"id": "misc",
+		"name": "Voersilo",
+		"location": "Onbekende locatie",
+		"source": "Nestkastlive",
+		"stream": "https://5d881567b7568.streamlock.net/live/Voersilo.stream/playlist.m3u8",
+		"token": ""
+	},
+	{
+		"id": "torenvalk",
+		"name": "Torenvalk",
+		"location": "Hoogeveen, Drenthe",
+		"source": "Beleefdelente",
+		"stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=Torenvalk1&type=live&service=wowza&protocol=https&output=playlist.m3u8",
+		"token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=Torenvalk1"
 	}
 ]

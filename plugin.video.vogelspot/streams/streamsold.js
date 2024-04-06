@@ -56,14 +56,6 @@
 		"token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=roodstaart2"
 	},
 	{
-		"id": "havik",
-		"name": "Havik",
-		"location": "Hoeksche waard, Zuid-Holland",
-		"source": "Nestkastlive",
-		"stream": "https://5d881567b7568.streamlock.net/live/Havik.stream/playlist.m3u8",
-		"token": ""
-	},
-	{
 		"id": "holenduif",
 		"name": "Holenduif / Bosuil Binnen",
 		"location": "Heuvelrug, Utrecht",
@@ -144,30 +136,6 @@
 		"token": ""
 	},
 	{
-		"id": "oeverzwaluw",
-		"name": "Oeverzwaluw Binnen",
-		"location": "Skrok, Friesland",
-		"source": "Nestkastlive",
-		"stream": "https://5d881567b7568.streamlock.net/live/Oeverzwaluw2.stream/Playlist.m3u8",
-		"token": ""
-	},
-	{
-		"id": "oeverzwaluw",
-		"name": "Oeverzwaluw Binnen",
-		"location": "Bodegraven-Reeuwijk, Zuid-Holland",
-		"source": "Nestkastlive",
-		"stream": "https://5d881567b7568.streamlock.net/live/Oeverzwaluw1Binnen.stream/playlist.m3u8",
-		"token": ""
-	},
-	{
-		"id": "oeverzwaluw",
-		"name": "Oeverzwaluw Buiten",
-		"location": "Bodegraven-Reeuwijk, Zuid-Holland",
-		"source": "Nestkastlive",
-		"stream": "https://5d881567b7568.streamlock.net/live/Oeverzwaluw1Buiten.stream/playlist.m3u8",
-		"token": ""
-	},
-	{
 		"id": "ransuil",
 		"name": "Ransuil",
 		"location": "Wassenaar, Zuid-Holland",
@@ -192,19 +160,35 @@
 		"token": ""
 	},
 	{
-		"id": "torenvalk",
-		"name": "Torenvalk",
-		"location": "Hoogeveen, Drenthe",
-		"source": "Beleefdelente",
-		"stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=Torenvalk1&type=live&service=wowza&protocol=https&output=playlist.m3u8",
-		"token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=Torenvalk1"
-	},
-	{
 		"id": "winterkoning",
 		"name": "Winterkoning",
 		"location": "Alphen aan den Rijn, Zuid-Holland",
 		"source": "Nestkastlive",
 		"stream": "https://5d881567b7568.streamlock.net/live/Winterkoning.stream/playlist.m3u8",
 		"token": ""
-	}
+	},
+	{
+		"id": "oeverzwaluw",
+		"name": "Oeverzwaluw Binnen",
+		"location": "Skrok, Friesland",
+		"source": "Nestkastlive",
+		"stream": "https://5d881567b7568.streamlock.net/live/Oeverzwaluw2.stream/Playlist.m3u8",
+		"token": ""
+	},
+	{
+		"id": "slechtvalk",
+		"name": "Slechtvalk Nest",
+		"location": "De Mortel, Noord-Brabant",
+		"source": "Beleefdelente",
+		"stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=SlechtvalkGemert3&type=live&service=wowza&protocol=https&output=playlist.m3u8",
+		"token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=SlechtvalkGemert3"
+	},
+	{
+		"id": "slechtvalk",
+		"name": "Slechtvalk Rooster",
+		"location": "De Mortel, Noord-Brabant",
+		"source": "Beleefdelente",
+		"stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=SlechtvalkGemert2&type=live&service=wowza&protocol=https&output=playlist.m3u8",
+		"token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=SlechtvalkGemert2"
+	},
 ]
