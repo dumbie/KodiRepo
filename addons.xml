@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.vogelspot" name="Vogelspot" provider-name="Arnold Vink" version="1.1.1">
+<addon id="plugin.video.vogelspot" name="Vogelspot" provider-name="Arnold Vink" version="1.1.2">
   <extension point="xbmc.python.script" library="default.py">
     <provides>video</provides>
   </extension>
