@@ -9,14 +9,6 @@
 	},
 	{
 		"id": "boerenzwaluw",
-		"name": "Boerenzwaluw",
-		"location": "Alphen aan den Rijn, Zuid-Holland",
-		"source": "Nestkastlive",
-		"stream": "https://5d881567b7568.streamlock.net/live/Boerenzwaluw3.stream/playlist.m3u8",
-		"token": ""
-	},
-	{
-		"id": "boerenzwaluw",
 		"name": "Boerenzwaluw Nest",
 		"location": "Grenslicht, Woold, Gelderland",
 		"source": "Beleefdelente",

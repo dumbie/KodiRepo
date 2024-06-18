@@ -40,6 +40,14 @@
 		"token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=Gierzwaluw1"
 	},
 	{
+		"id": "huismus",
+		"name": "Huismus",
+		"location": "Eese, Overijssel",
+		"source": "Beleefdelente",
+		"stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=Huismus2&type=live&service=wowza&protocol=https&output=playlist.m3u8",
+		"token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=Huismus2"
+	},
+	{
 		"id": "kerkuil",
 		"name": "Kerkuil Binnen",
 		"location": "Grenslicht, Woold, Gelderland",
@@ -260,7 +268,7 @@
 		"name": "Turkse Tortel / Houtduif",
 		"location": "Alphen aan den Rijn, Zuid-Holland",
 		"source": "Nestkastlive",
-		"stream": "https://5d881567b7568.streamlock.net/live/TurkseTortel.stream/playlist.m3u8",
+		"stream": "https://5d881567b7568.streamlock.net/live/Houtduif.stream/playlist.m3u8",
 		"token": ""
 	},
 	{
@@ -344,19 +352,19 @@
 		"token": ""
 	},
 	{
-		"id": "misc",
-		"name": "Voersilo",
-		"location": "Onbekende locatie",
-		"source": "Nestkastlive",
-		"stream": "https://5d881567b7568.streamlock.net/live/Voersilo.stream/playlist.m3u8",
-		"token": ""
-	},
-	{
 		"id": "torenvalk",
 		"name": "Torenvalk",
 		"location": "Hoogeveen, Drenthe",
 		"source": "Beleefdelente",
 		"stream": "https://rrr.sz.xlcdn.com/?account=bdl&file=Torenvalk1&type=live&service=wowza&protocol=https&output=playlist.m3u8",
 		"token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=Torenvalk1"
+	},
+	{
+		"id": "boerenzwaluw",
+		"name": "Boerenzwaluw",
+		"location": "Alphen aan den Rijn, Zuid-Holland",
+		"source": "Nestkastlive",
+		"stream": "https://5d881567b7568.streamlock.net/live/Boerenzwaluw3.stream/playlist.m3u8",
+		"token": ""
 	}
 ]
