@@ -366,5 +366,13 @@
 		"source": "Nestkastlive",
 		"stream": "https://5d881567b7568.streamlock.net/live/Boerenzwaluw3.stream/playlist.m3u8",
 		"token": ""
+	},
+	{
+		"id": "misc",
+		"name": "Boscam",
+		"location": "Wassenaar, Zuid-Holland",
+		"source": "Nestkastlive",
+		"stream": "https://5d881567b7568.streamlock.net/live/Boscam.stream/playlist.m3u8",
+		"token": ""
 	}
 ]
