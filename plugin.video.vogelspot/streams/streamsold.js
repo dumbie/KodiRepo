@@ -24,14 +24,6 @@
 		"token": "https://www.vogelbescherming.nl/cfc/bdl/CFJetStream/JetStream.cfc?method=GenerateToken&streamname=Boerenzwaluw2"
 	},
 	{
-		"id": "misc",
-		"name": "Bos Camera",
-		"location": "Wassenaar, Zuid-Holland",
-		"source": "Nestkastlive",
-		"stream": "https://5d881567b7568.streamlock.net/live/Boscam.stream/playlist.m3u8",
-		"token": ""
-	},
-	{
 		"id": "buizerd",
 		"name": "Buizerd",
 		"location": "Hoeksche waard, Zuid-Holland",

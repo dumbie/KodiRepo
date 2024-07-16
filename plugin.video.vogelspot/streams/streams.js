@@ -374,5 +374,13 @@
 		"source": "Nestkastlive",
 		"stream": "https://5d881567b7568.streamlock.net/live/Boscam.stream/playlist.m3u8",
 		"token": ""
+	},
+	{
+		"id": "ijsvogel",
+		"name": "Ijsvogel",
+		"location": "Rekken, Gelderland",
+		"source": "Nestkastlive",
+		"stream": "https://5d881567b7568.streamlock.net/live/IJsvogelRekken.stream/Playlist.m3u8",
+		"token": ""
 	}
 ]
