@@ -289,6 +289,14 @@
 	},
 	{
 		"id": "misc",
+		"name": "Voersilo",
+		"location": "",
+		"source": "Nestkastlive",
+		"stream": "https://5d881567b7568.streamlock.net/live/Voersilo.stream/Playlist.m3u8",
+		"token": ""
+	},
+	{
+		"id": "misc",
 		"name": "Waterplas",
 		"location": "",
 		"source": "Nestkastlive",
@@ -349,6 +357,22 @@
 		"location": "",
 		"source": "Nestkastlive",
 		"stream": "https://5d881567b7568.streamlock.net/live/BonteVliegenvanger.stream/Playlist.m3u8",
+		"token": ""
+	},
+	{
+		"id": "ijsvogel",
+		"name": "Ijsvogel Buiten",
+		"location": "",
+		"source": "Nestkastlive",
+		"stream": "https://5d881567b7568.streamlock.net/live/IJsvogel1Buiten.stream/Playlist.m3u8",
+		"token": ""
+	},
+	{
+		"id": "ijsvogel",
+		"name": "Ijsvogel Binnen",
+		"location": "",
+		"source": "Nestkastlive",
+		"stream": "https://5d881567b7568.streamlock.net/live/IJsvogel1Binnen.stream/Playlist.m3u8",
 		"token": ""
 	}
 ]

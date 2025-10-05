@@ -184,14 +184,6 @@
 		"token": ""
 	},
 	{
-		"id": "ijsvogel",
-		"name": "Ijsvogel",
-		"location": "",
-		"source": "Nestkastlive",
-		"stream": "https://5d881567b7568.streamlock.net/live/IJsvogelRekken.stream/Playlist.m3u8",
-		"token": ""
-	},
-	{
 		"id": "pimpelmees",
 		"name": "Pimpelmees Binnen",
 		"location": "",
